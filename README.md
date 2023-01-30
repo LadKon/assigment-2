@@ -1,1 +1,1 @@
-# assigment-2 --> [https://funny-daifuku-a78745.netlify.app/](https://assigments-2.netlify.app/)
+# assigment-2 --> https://ladkon.github.io/assigment-2/
